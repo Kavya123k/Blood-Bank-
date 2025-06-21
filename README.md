@@ -67,5 +67,5 @@ bbdms/
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live project](https://your-live-demo-link.com)
+🔗 [Click here to view the live project](http://localhost/bbdms/BBDMS-Project-PHP-V2.4/bbdms/)
 
